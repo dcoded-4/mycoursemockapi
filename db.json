@@ -75,7 +75,7 @@
       "name": "Emily Johnson",
       "description": "This basketball is perfect for practicing my shots.",
       "itemId": "5"
-    },
+    }
  ],
   "collection": {
     "@context": "https://schema.org/",
